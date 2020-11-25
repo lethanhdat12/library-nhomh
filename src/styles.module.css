@@ -1,0 +1,44 @@
+/* add css module styles here (optional) */
+.tittle_regis{
+  text-align: center;
+  color: red;
+}
+.form_box{
+  width: 380px;
+  height: 480px;
+  position: relative;
+  margin: 6% auto;
+  background:#78bcc4;
+  padding: 5px;
+}
+.btn_box{
+  width: 85%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  background: linear-gradient(to right,#ff105f,#ffad06);
+  border: 0;
+  outline: none;
+  border-radius: 30px;
+  margin-top:30px;
+  color: white;
+}
+.input_group{
+  top : 80px;
+  position: absolute;
+  width: 280px;
+  transition: 0.5s;
+  left: 50px;
+}
+.input{
+  width: 100%;
+  padding: 10px 0;
+  margin: 5px 0;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 1px solid #999;
+  outline: none;
+  background: transparent;
+}
